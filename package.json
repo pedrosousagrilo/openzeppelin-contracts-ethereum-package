@@ -40,10 +40,10 @@
   },
   "homepage": "https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package",
   "devDependencies": {
-    "@openzeppelin/cli": "2.5.0",
+    "@openzeppelin/cli": "^2.5.2",
     "@openzeppelin/gsn-helpers": "^0.1.5",
     "@openzeppelin/gsn-provider": "^0.1.5",
-    "@openzeppelin/upgrades": "2.5.0",
+    "@openzeppelin/upgrades": "^2.5.2",
     "chai": "^4.2.0",
     "chai-bn": "^0.1.1",
     "eslint": "^4.19.1",
@@ -65,6 +65,6 @@
     "truffle": "^5.0.18"
   },
   "peerDependencies": {
-    "@openzeppelin/upgrades": "^2.5.0"
+    "@openzeppelin/upgrades": "^2.5.2"
   }
 }
